@@ -1,0 +1,67 @@
+body {
+	font-family: 'Gruppo', sans-serif; 
+	text-align: center;
+	color: rgba(48, 25, 52, 1);
+	background: radial-gradient(circle, rgba(225, 255, 224, 1) 45%, rgba(144, 178, 71, .5) 40%);
+	background: -webkit-radial-gradient(circle, rgba(225, 225, 224,1) 15%, rgba(144, 178, 71, .5) 40%);
+	background: -moz-radial-gradient(circle, rgba(225, 225, 224, 1) 15%, rgba(144, 178, 71, .5) 40%);
+	font-size: 150%;
+	margin: 0 auto;	
+	padding: 0;
+
+}
+
+img {
+	height: 300px;
+	width: auto;
+	border: 7px solid rgba(225, 225, 224, 1);
+	border-radius: 75px;
+	border-color: rgba( 225, 225, 224, 1);
+	text-align: center;
+	margin: 20px 0 20px 0;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	color: rgba(1, 68, 33, 1);
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	padding: 20px 0 20px 10px;
+}
+
+a{
+	color: purple;
+}
+
+ul {
+	padding: 0 10px 0 0;
+	font-size: 20px;
+}
+
+li {
+	display: inline;
+	padding:0 10px 0 10px;
+}
+
+input {
+	border-radius: 20px;
+	border: 0;
+	padding: 5px;
+	font-size: 17px;
+	background: rgba(225, 225,224, 1);
+	margin: 10px 0 10px 0;
+}
+
+input[type="submit"] {
+	background: rgba(0, 128, 128, 1);
+}
+
+.build {
+	padding: 20px 0 20px 0;
+}
