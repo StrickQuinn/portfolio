@@ -12,10 +12,8 @@ body {
 }
 
 img {
-	height: 300px;
-	width: auto;
 	border: 7px solid rgba(225, 225, 224, 1);
-	border-radius: 75px;
+	border-radius: 10px;
 	border-color: rgba( 225, 225, 224, 1);
 	text-align: center;
 	margin: 20px 0 20px 0;
